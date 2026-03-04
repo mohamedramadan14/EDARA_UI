@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --radius: 1rem;
+
+  /* EDARA palette */
+  --background: 0 0% 100%;
+  --foreground: 224 71% 17%;
+
+  --card: 0 0% 100%;
+  --card-foreground: 224 71% 17%;
+
+  --border: 220 13% 91%; /* #e5e7eb */
+  --input: 220 13% 91%;
+  --ring: 224 71% 17%;
+
+  --primary: 231 76% 22%; /* close to #0d1a63 */
+  --primary-foreground: 0 0% 100%;
+
+  --secondary: 210 40% 96%;
+  --secondary-foreground: 222 47% 11%;
+
+  --muted: 210 40% 96%;
+  --muted-foreground: 215 16% 47%;
+
+  --accent: 210 40% 96%;
+  --accent-foreground: 222 47% 11%;
+
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+}
+
+body {
+  font-family: Montserrat, ui-sans-serif, system-ui, sans-serif;
+}

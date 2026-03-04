@@ -1,0 +1,10 @@
+Bundled 1805 modules in 246ms
+
+  main.js   1.30 MB  (entry point)
+  main.css  0.87 KB  (asset)
+
+warn: invalid @ rule encountered: '@tailwind'
+
+warn: invalid @ rule encountered: '@tailwind'
+
+warn: invalid @ rule encountered: '@tailwind'
